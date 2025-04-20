@@ -4,9 +4,7 @@
 
 ### Olá, sou Ítalo Oliveira Gomes
 
-- <p align="justify">
-Estudante de Engenharia de Computação com habilidades em C, Java, SQL e inglês avançado. Interessado tanto em desenvolvimento de software quanto em sistemas de hardware.
-</p>
+- <p align="justify"> Estudante de Engenharia de Computação com habilidades em C, Java, SQL e inglês avançado. Interessado tanto em desenvolvimento de software quanto em sistemas de hardware. </p>
 
 
 

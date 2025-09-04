@@ -10,8 +10,6 @@
 ## Back-End
 - <p align="justify"> Experiência em desenvolvimento de softwares para desktop e Android, com Java no back-end. Utilização de MySQL, Firebase Cloud, JUnit, LeakCanary, Android Profiler e Docker para aplicações conectadas e testes. Aplicação de princípios SOLID, padrões de projeto, métodos ágeis e bibliotecas Retrofit e Glide.</p>
 
-### Linguagens/Ferramentas
-
 - <div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code> |
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code> |

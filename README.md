@@ -7,6 +7,8 @@
 <div style="padding-left: 10px;"> 
   <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" /> 
   <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" /> 
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" /> 
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" /> 
 </div>
 
 ## Back-End
@@ -17,5 +19,7 @@
   <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" />
   <img src="https://github.com/IoGomes/IoGomes/blob/main/figma-_1_.png?raw=true" style="width: 50px;" />
   <img src="https://github.com/IoGomes/IoGomes/blob/main/androidstudio-_2_.png?raw=true" style="width: 50px;" />
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" /> 
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" /> 
 </div>
 

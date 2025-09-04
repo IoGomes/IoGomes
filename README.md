@@ -15,7 +15,7 @@
 
 
 ## Back-End
-- <p align="justify"> Desenvolvimento de softwares para desktop e Android, com Java no back-end, XML no front-end e Adobe XD para design de interfaces (UI/UX). Uso de MySQL, Firebase Cloud, JUnit, LeakCanary, Android Profiler e Docker para suporte a aplicações conectadas e testes. Integração de sistemas embarcados e componentes elétricos, com AutoCAD Electrical e Autodesk Inventor para criação de esquemas e integração com software. Princípios SOLID, Padrões de Projeto e Métodos Agile.Bibliotecas: Retrofit e Glide</p>
+- <p align="justify"> Desenvolvimento de softwares backend para desktop e Android com Java, bancos de dados e serviços (MySQL, Firebase Cloud), testes e análise de performance (JUnit, LeakCanary, Android Profiler), conteinerização (Docker), aplicação de princípios SOLID, Padrões de Projeto e métodos Agile, utilizando bibliotecas como Retrofit e Glide.</p>
 
 ### Linguagens/Ferramentas
 

@@ -9,6 +9,36 @@
 ### Ferramentas
 -
 
+<table>
+<tr>
+<td width="50%">
+Lado Esquerdo
+Este é o conteúdo da coluna esquerda. Você pode usar:
+
+Listas
+Texto em negrito
+Código
+E qualquer outro markdown
+
+javascriptconsole.log("Código também funciona!");
+</td>
+<td width="50%">
+Lado Direito
+E este é o conteúdo da coluna direita.
+Você pode ter:
+
+Listas numeradas
+Links como este
+Imagens
+Qualquer coisa!
+
+
+Até mesmo citações funcionam aqui
+
+</td>
+</tr>
+</table>
+
 ## Back-End
 - <p align="justify"> Desenvolvimento de softwares para desktop e Android, com Java no back-end, XML no front-end e Adobe XD para design de interfaces (UI/UX). Uso de MySQL, Firebase Cloud, JUnit, LeakCanary, Android Profiler e Docker para suporte a aplicações conectadas e testes. Integração de sistemas embarcados e componentes elétricos, com AutoCAD Electrical e Autodesk Inventor para criação de esquemas e integração com software. Princípios SOLID, Padrões de Projeto e Métodos Agile. </p>
 

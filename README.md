@@ -30,10 +30,9 @@
 
 ### TImeSkip
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/vecteezy_hermes-vector-icon-design_25985585%20%5BConvertido%5D.png?raw=true" width="125" height="125" style="object-fit: contain;" />
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_235201.png?raw=true" style="width: 20%; height: 125px; object-fit: contain;" />
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_211936.png?raw=true" style="width: 20%; height: 125px; object-fit: contain;" />
+<div style="display: flex; gap: 10px; position: relative;">
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/vecteezy_hermes-vector-icon-design_25985585%20%5BConvertido%5D.png?raw=true" width="125" height="125" style="position: relative; top: 0;" />
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_235201.png?raw=true" width="20%" />
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_211936.png?raw=true" width="20%" />
 </div>
-
 

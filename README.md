@@ -7,16 +7,16 @@
 -
 
 ### Ferramentas
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    **Coluna 1**  
-    Aqui vai o texto da primeira coluna.
-  </div>
-  <div style="flex: 1;">
-    **Coluna 2**  
-    Aqui vai o texto da segunda coluna.
-  </div>
-</div>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 ### Linguagens
 -
 

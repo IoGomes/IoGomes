@@ -1,7 +1,7 @@
 # Ítalo Oliveira Gomes - Android FullStack Developer
 
 ## Front-End
-- <p align="justify"> Interfaces modernas e responsivas, compatibilidade entre dispositivos e desempenho otimizado, ao desenvolver softwares desktop e Android em Java programático e XML nativo, aplicando boas práticas de UI e utilizando Figma, Adobe XD, Photoshop, Illustrator, Android Profiler e Perfetto."</p>
+- <p align="justify"> Interfaces Modernas e Responsivas, Compatibilidade entre dispositivos e Desempenho otimizado, utilizando Java programático e XML nativo, aplicando boas práticas de UI em Ferramentas como Figma, Adobe XD, Photoshop, Illustrator, Android Profiler e Perfetto."</p>
 
 ### Linguagens/Ferramentas
 

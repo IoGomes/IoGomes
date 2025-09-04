@@ -31,7 +31,7 @@
 ### TImeSkip
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/vecteezy_hermes-vector-icon-design_25985585%20%5BConvertido%5D.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/vecteezy_hermes-vector-icon-design_25985585%20%5BConvertido%5D.png?raw=true" width="250" height="250" />
   <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250904_000430.png?raw=true" width="20%" />
   <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_235201.png?raw=true" width="20%" />
   <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_211936.png?raw=true" width="20%" />

@@ -5,7 +5,7 @@
 </p>
 
 <div style="padding-left: 10px;"> 
-  &nbsp;&nbsp;&nbsp;&nbsp <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" /> 
   <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" /> 
   <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" /> 
   <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" /> 

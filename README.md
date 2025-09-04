@@ -6,13 +6,9 @@
 ### Linguagens/Ferramentas
 
  <div style="padding-left: 10px;">
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" style="width: 50px;" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" style="width: 50px;" />
-  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" style="width: 50px;" />
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/androidstudio.png?raw=true" style="width: 50px;" />
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/android.png?raw=true" style="width: 50px;" />
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
-</div>
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" />
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" />
+ </div>
 
 ## Back-End
 - <p align="justify"> Experiência em desenvolvimento de softwares para desktop e Android, com Java no back-end. Utilização de MySQL, Firebase Cloud, JUnit, LeakCanary, Android Profiler e Docker para aplicações conectadas e testes. Aplicação de princípios SOLID, padrões de projeto, métodos ágeis e bibliotecas Retrofit e Glide.</p>

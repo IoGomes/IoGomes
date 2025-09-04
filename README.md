@@ -4,7 +4,7 @@
 - <p align="justify"> Interfaces Modernas e Responsivas, Compatibilidade entre dispositivos e Desempenho otimizado, utilizando <b>Java</b> e <b>XML</b>, aplicando boas práticas de UI em prototipagem (<b>Figma</b>, <b>Adobe XD</b>, <b>Photoshop</b>, <b>Illustrator</b>) e em análise de performance (<b>Android Profiler</b>, <b>Perfetto</b>).
 </p>
 
-### Linguagens/Ferramentas
+### Linguagens | Ferramentas
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp; <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code> |

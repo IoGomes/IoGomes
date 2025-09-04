@@ -7,56 +7,16 @@
 -
 
 ### Ferramentas
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr style="border: none;">
-<td width="50%" style="border: none; vertical-align: top; padding-right: 20px;">
-🚀 Desenvolvimento Frontend
-A evolução do desenvolvimento web nos últimos anos tem sido impressionante. Frameworks como React, Vue.js e Angular revolucionaram a forma como criamos interfaces de usuário. A componentização trouxe modularidade e reutilização de código.
-Tecnologias Modernas
-
-TypeScript para tipagem estática
-Tailwind CSS para estilização rápida
-Next.js para aplicações full-stack
-Vite para bundling ultra-rápido
-
-javascriptconst App = () => {
-  return <h1>Hello, World!</h1>;
-};
-Tendências 2024
-O mercado está se movendo em direção a:
-
-Server Components no React
-Micro-frontends para grandes aplicações
-Web Assembly para performance
-Progressive Web Apps para mobile
-
-</td>
-<td width="50%" style="border: none; vertical-align: top; padding-left: 20px;">
-⚙️ Backend & DevOps
-O backend moderno exige conhecimento em arquiteturas distribuídas, microsserviços e cloud computing. A containerização com Docker transformou o deployment de aplicações, enquanto Kubernetes orquestra essas aplicações em produção.
-Stack Tecnológico
-
-Node.js com Express ou Fastify
-Python com Django ou FastAPI
-PostgreSQL e MongoDB para dados
-Redis para cache e sessões
-
-bashdocker build -t minha-app .
-docker run -p 3000:3000 minha-app
-Cloud & Infrastructure
-As principais plataformas cloud oferecem:
-
-AWS: EC2, Lambda, RDS, S3
-Google Cloud: Compute Engine, Cloud Functions
-Azure: App Service, Azure Functions
-Vercel/Netlify: Deploy simplificado
-
-
-"A infraestrutura como código (IaC) é o futuro do DevOps"
-
-</td>
-</tr>
-</table>
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    **Coluna 1**  
+    Aqui vai o texto da primeira coluna.
+  </div>
+  <div style="flex: 1;">
+    **Coluna 2**  
+    Aqui vai o texto da segunda coluna.
+  </div>
+</div>
 ### Linguagens
 -
 

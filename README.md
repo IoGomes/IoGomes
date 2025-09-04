@@ -10,20 +10,18 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code> 
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code> 
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code>
+<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/docker.png?raw=true" width="50" alt="Docker" title="Docker"/>
 <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/aws.png?raw=true" width="50" alt="AWS" title="AWS"/>
 
 ## Back-End
 - <p align="justify"> Desenvolvimento de softwares para desktop e Android, com Java no back-end, XML no front-end e Adobe XD para design de interfaces (UI/UX). Uso de MySQL, Firebase Cloud, JUnit, LeakCanary, Android Profiler e Docker para suporte a aplicações conectadas e testes. Integração de sistemas embarcados e componentes elétricos, com AutoCAD Electrical e Autodesk Inventor para criação de esquemas e integração com software. Princípios SOLID, Padrões de Projeto e Métodos Agile. </p>
 
+### Lenguages
+
+
 ### Tools
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
+<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/docker.png?raw=true" width="50" alt="Docker" title="Docker"/>
+<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/aws.png?raw=true" width="50" alt="AWS" title="AWS"/>
 
 ## Project Showcase
 

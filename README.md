@@ -10,7 +10,7 @@
 <div align="center">
     <table >
      <tr>
-        <td><b>Latest Tweets</b></td>
+        <td><b>### Latest Tweets</b></td>
         <td><b>daily.dev</b></td>
      </tr>
      <tr>

@@ -6,7 +6,7 @@
 ### Linguagens/Ferramentas
 
 - <div>
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" style="width: 100px;" />
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" style="width: 50px;" />
   
 </div>
 

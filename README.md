@@ -1,4 +1,4 @@
-# Ítalo Oliveira Gomes -> Full Stack Developer
+# Ítalo Oliveira Gomes 
 
 ## Front-End
 - <p align="justify"> Desenvolvo softwares para desktop e Android com Java programático e XML nativo, criando interfaces modernas e responsivas com Figma, Adobe XD, Photoshop e Illustrator. Utilizo Android Profiler e Perfetto para otimizar desempenho e aplico boas práticas de UI para garantir renderização leve e compatibilidade entre dispositivos.</p>

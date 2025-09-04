@@ -5,7 +5,7 @@
 
 ### Linguagens/Ferramentas
 
- <div style="padding-left: 10px;">
+ - <div style="padding-left: 10px;">
   <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" />
   <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" />
  </div>

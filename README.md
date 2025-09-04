@@ -19,7 +19,7 @@
 - <p align="justify"> Desenvolvimento de softwares backend para desktop e Android com <b>Java</b>, bancos de dados e serviços (<b>MySQL</b>, <b>Firebase Cloud</b>), testes e análise de performance (<b>JUnit</b>, <b>LeakCanary</b>, <b>Android Profiler</b>), conteinerização (<b>Docker</b>), aplicação de princípios <b>SOLID</b>, Padrões de Projeto e métodos <b>Agile</b>, utilizando bibliotecas como <b>Retrofit</b> e <b>Glide</b>.
 </p>
 
-### Linguagens/Ferramentas
+### Linguagens | Ferramentas
 
 - <div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code> |

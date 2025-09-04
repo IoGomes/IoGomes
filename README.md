@@ -24,6 +24,7 @@
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code> |
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code> |
   <img width="50" src="<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/2c6a122d-c9bd-4899-8be6-da9c330f10c5" />
+ <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" />
 " alt="Android" title="Postman"/>
   <div align="center">
   <svg role="img" viewBox="0 0 24 24" width="40" height="40" xmlns="http://www.w3.org/2000/svg">

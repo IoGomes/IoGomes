@@ -16,7 +16,8 @@
 
 
 ## Back-End
-- <p align="justify"> Desenvolvimento de softwares backend para desktop e Android com Java, bancos de dados e serviços (MySQL, Firebase Cloud), testes e análise de performance (JUnit, LeakCanary, Android Profiler), conteinerização (Docker), aplicação de princípios SOLID, Padrões de Projeto e métodos Agile, utilizando bibliotecas como Retrofit e Glide.</p>
+- <p align="justify"> Desenvolvimento de softwares backend para desktop e Android com <b>Java</b>, bancos de dados e serviços (<b>MySQL</b>, <b>Firebase Cloud</b>), testes e análise de performance (<b>JUnit</b>, <b>LeakCanary</b>, <b>Android Profiler</b>), conteinerização (<b>Docker</b>), aplicação de princípios <b>SOLID</b>, Padrões de Projeto e métodos <b>Agile</b>, utilizando bibliotecas como <b>Retrofit</b> e <b>Glide</b>.
+</p>
 
 ### Linguagens/Ferramentas
 

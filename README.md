@@ -30,7 +30,7 @@
 
 ### TImeSkip <a href="#">https://linkprovisorioTImeSkip</a>
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
+<div style="display: flex; gap: 10px; align-items: center;">
   <!-- Div para a imagem menor -->
   <div>
     <img src="https://github.com/IoGomes/IoGomes/blob/main/vecteezy_hermes-vector-icon-design_25985585%20%5BConvertido%5D.png?raw=true" width="125" height="125" />

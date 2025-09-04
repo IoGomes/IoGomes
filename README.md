@@ -31,12 +31,11 @@
 ### TImeSkip <a href="#">https://linkprovisorioTImeSkip</a>
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <!-- Div para a imagem menor -->
+
   <div>
     <img src="https://github.com/IoGomes/IoGomes/blob/main/vecteezy_hermes-vector-icon-design_25985585%20%5BConvertido%5D.png?raw=true" width="125" height="125" />
   </div>
   
-  <!-- Div para as imagens maiores -->
   <div style="display: flex; flex-direction: row; gap: 10px; width: 100%;">
     <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_235201.png?raw=true" style="width: 200px;" />
     <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_211936.png?raw=true" style="width: 200px;" />

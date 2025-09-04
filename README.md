@@ -3,8 +3,6 @@
 ## Front-End
 - <p align="justify"> Desenvolvo softwares para desktop e Android com Java programático e XML nativo, criando interfaces modernas e responsivas com Figma, Adobe XD, Photoshop e Illustrator. Utilizo Android Profiler e Perfetto para otimizar desempenho e aplico boas práticas de UI para garantir renderização leve e compatibilidade entre dispositivos.</p>
 
-### Linguagens/Ferramentas
-
 - <div style="padding-left: 10px;"> 
   <img src="https://github.com/IoGomes/IoGomes/blob/main/visualparadigm%20(1).png?raw=true" style="width: 50px;" /> 
   <img src="https://github.com/IoGomes/IoGomes/blob/main/postman%20(1).png?raw=true" style="width: 50px;" /> 

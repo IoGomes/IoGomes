@@ -7,25 +7,56 @@
 -
 
 ### Ferramentas
-<div>
-<div style="float: left; width: 48%; margin-right: 4%;">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<tr style="border: none;">
+<td width="50%" style="border: none; vertical-align: top; padding-right: 20px;">
+🚀 Desenvolvimento Frontend
+A evolução do desenvolvimento web nos últimos anos tem sido impressionante. Frameworks como React, Vue.js e Angular revolucionaram a forma como criamos interfaces de usuário. A componentização trouxe modularidade e reutilização de código.
+Tecnologias Modernas
 
-### Coluna Esquerda
-Seu conteúdo aqui...
+TypeScript para tipagem estática
+Tailwind CSS para estilização rápida
+Next.js para aplicações full-stack
+Vite para bundling ultra-rápido
 
-</div>
-<div style="float: right; width: 48%;">
+javascriptconst App = () => {
+  return <h1>Hello, World!</h1>;
+};
+Tendências 2024
+O mercado está se movendo em direção a:
 
-### Coluna Direita
-Outro conteúdo aqui...
+Server Components no React
+Micro-frontends para grandes aplicações
+Web Assembly para performance
+Progressive Web Apps para mobile
 
-</div>
-<div style="clear: both;"></div>
-</div>
+</td>
+<td width="50%" style="border: none; vertical-align: top; padding-left: 20px;">
+⚙️ Backend & DevOps
+O backend moderno exige conhecimento em arquiteturas distribuídas, microsserviços e cloud computing. A containerização com Docker transformou o deployment de aplicações, enquanto Kubernetes orquestra essas aplicações em produção.
+Stack Tecnológico
 
-## Back-End
-- <p align="justify"> Desenvolvimento de softwares para desktop e Android, com Java no back-end, XML no front-end e Adobe XD para design de interfaces (UI/UX). Uso de MySQL, Firebase Cloud, JUnit, LeakCanary, Android Profiler e Docker para suporte a aplicações conectadas e testes. Integração de sistemas embarcados e componentes elétricos, com AutoCAD Electrical e Autodesk Inventor para criação de esquemas e integração com software. Princípios SOLID, Padrões de Projeto e Métodos Agile. </p>
+Node.js com Express ou Fastify
+Python com Django ou FastAPI
+PostgreSQL e MongoDB para dados
+Redis para cache e sessões
 
+bashdocker build -t minha-app .
+docker run -p 3000:3000 minha-app
+Cloud & Infrastructure
+As principais plataformas cloud oferecem:
+
+AWS: EC2, Lambda, RDS, S3
+Google Cloud: Compute Engine, Cloud Functions
+Azure: App Service, Azure Functions
+Vercel/Netlify: Deploy simplificado
+
+
+"A infraestrutura como código (IaC) é o futuro do DevOps"
+
+</td>
+</tr>
+</table>
 ### Linguagens
 -
 

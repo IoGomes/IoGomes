@@ -23,7 +23,7 @@
 
   <div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
   <div style="display: flex; flex-direction: row; gap: 200px; width: 100%;">
-    <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250904_000430.png?raw=true" style="width: 200px;" />
+    <img src="" style="width: 200px;" />
     <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_235201.png?raw=true" style="width: 200px;" />
     <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250903_211936.png?raw=true" style="width: 200px;" />
     <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250904_005229.png?raw=true" style="width: 200px;" />

@@ -13,7 +13,10 @@
 
 ## Project Showcase
 
-### FisioTracker
+### FisioTracker – Monitoramento Fisioterapêutico
+
+<p align="justify"> Sistema de acompanhamento em tempo real de múltiplos pacientes, integrando sensores em Arduino (BLE) a um app Android nativo (Java + XML). Protótipos em Figma e Adobe XD, e protótipos elétricos em AutoCAD.
+</p>
 
  <div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
   <div style="display: flex; flex-direction: row; gap: 200px; width: 100%;">

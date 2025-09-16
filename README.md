@@ -10,7 +10,6 @@
 
 ### Linguagens | Ferramentas
 
-
 ## Project Showcase
 
 ### FisioTracker – Monitoramento Fisioterapêutico
@@ -51,7 +50,7 @@
 
 ##
 
-### - Reluza Acessorios - Em andamento
+### Reluza Acessorios - Em andamento
 
 - <p align="justify"> App Android nativo (XML + Java) com backend Firebase e protótipo em Figma. Catálogo responsivo para exibir coleções, filtrar por categoria/material/preço, favoritar produtos, e realizar upload de imagens e gerenciamento via painel Firebase.
 </p>

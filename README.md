@@ -29,7 +29,10 @@
 
 ##
 
-### TImeSkip 
+### TImeSkip - Mensageiro
+
+<p align="justify"> Chat nativo Android (Java + XML) com comunicação por servidor próprio (em desenvolvimento). Mensagens em tempo real, grupos, presença e persistência local.
+</p>
 
 <div style="display: flex; gap: 10px; align-items: center;">
 
@@ -45,6 +48,8 @@
     <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250904_005229.png?raw=true" style="width: 200px;" />
   </div>
 </div>
+
+##
 
 ### Reluza Acessorios - Em andamento
 

@@ -13,7 +13,7 @@
 
 ## Project Showcase
 
-### TImeSkip <a href="#">https://linkprovisorioTImeSkip</a>
+### TImeSkip 
 
 <div style="display: flex; gap: 10px; align-items: center;">
 
@@ -30,7 +30,7 @@
   </div>
 </div>
 
-### FisioTracker <a href="#">https://linkprovisorioTImeSkip</a>
+### FisioTracker
 
  <div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
   <div style="display: flex; flex-direction: row; gap: 200px; width: 100%;">

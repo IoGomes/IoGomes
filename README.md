@@ -41,5 +41,12 @@
   </div>
 </div>
 
+### Reluza Acessorios
+
+<div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
+  <div style="display: flex; flex-direction: row; gap: 200px; width: 100%;">
+    <img src="" style="width: 200px;" />
+  </div>
+</div>
 
 

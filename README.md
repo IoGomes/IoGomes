@@ -45,7 +45,7 @@
 
 <div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
   <div style="display: flex; flex-direction: row; gap: 200px; width: 100%;">
-    <img src="" style="width: 200px;" />
+    <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250916_000954.png?raw=true" style="width: 200px;" />
   </div>
 </div>
 

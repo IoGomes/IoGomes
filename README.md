@@ -10,11 +10,11 @@
 
 ### Linguagens | Ferramentas
 
-<div style="display: flex; flex-direction: row; gap: 40px; width: 100%;">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="width: 60%;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" style="width: 60%;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png" style="width: 60%;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" style="width: 60%;" />
+<div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="width: 25px; height: 25px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" style="width: 25px; height: 25px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png" style="width: 25px; height: 25px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" style="width: 25px; height: 25px;" />
 </div>
 
 <div style="display: flex; flex-direction: row; gap: 40px; width: 100%;">

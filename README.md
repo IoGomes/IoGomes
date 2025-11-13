@@ -1,13 +1,6 @@
 # Ítalo Gomes - Desenvolvedor Android Mobile
 
-## Front-End | UI/UX
-- <p align="justify"> Interfaces Modernas e Responsivas, Compatibilidade entre dispositivos e Desempenho otimizado, utilizando <b>Java</b> e <b>XML</b>, aplicando boas práticas de UI em prototipagem (<b>Figma</b>, <b>Adobe XD</b>, <b>Photoshop</b>, <b>Illustrator</b>) e em análise de performance (<b>Android Profiler</b>, <b>Perfetto</b>).
-</p>
-
-## Back-End
-- <p align="justify"> Desenvolvimento de softwares backend para desktop e Android com <b>Java</b>, bancos de dados e serviços (<b>MySQL</b>, <b>Firebase Cloud</b>), testes e análise de performance (<b>JUnit</b>, <b>LeakCanary</b>, <b>Android Profiler</b>), conteinerização (<b>Docker</b>), aplicação de princípios <b>SOLID</b>, Padrões de Projeto e métodos <b>Agile</b>, utilizando bibliotecas como <b>Retrofit</b> e <b>Glide</b>.
-</p>
-
+p align="justify"> Desenvolvimento completo de aplicações com foco em interfaces <b>modernas</b>, <b>responsivas</b> e de <b>alto desempenho</b>, utilizando <b>Java</b> e <b>XML</b>. Experiência na criação de <b>UI/UX</b> otimizadas e compatíveis entre diferentes dispositivos, aplicando boas práticas de design e prototipagem em <b>Figma</b>, <b>Adobe XD</b>, <b>Photoshop</b> e <b>Illustrator</b>, além de análise de performance com <b>Android Profiler</b> e <b>Perfetto</b>. </p> <p align="justify"> No <b>Back-End</b>, atuação no desenvolvimento de softwares para <b>desktop</b> e <b>Android</b> com <b>Java</b>, integração com bancos de dados e serviços como <b>MySQL</b> e <b>Firebase Cloud</b>, além de testes e otimização de desempenho com <b>JUnit</b> e <b>LeakCanary</b>. Aplicação de princípios <b>SOLID</b>, <b>Padrões de Projeto</b> e metodologias <b>Ágeis</b>, com uso de <b>Docker</b> para conteinerização e bibliotecas como <b>Retrofit</b> e <b>Glide</b> para garantir <b>escalabilidade</b> e <b>eficiência</b> das aplicações. </p>
 ### Linguagens | Ferramentas
 
 <div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">

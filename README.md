@@ -34,7 +34,7 @@
 
 ##
 
-### TImeSkip - Mensageiro
+### Nebula - Mensageiro
 
 <p align="justify"> Chat nativo Android (Java + XML) com comunicação por servidor próprio (em desenvolvimento). Mensagens em tempo real, grupos, presença e persistência local.
 </p>

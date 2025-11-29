@@ -18,7 +18,7 @@
 
 ## Project Showcase
 
-### FisioTracker – Monitoramento Fisioterapêutico
+### OrtoTrack – Monitoramento Fisioterapêutico
 
 <p align="justify"> Sistema de acompanhamento em tempo real de múltiplos pacientes, integrando sensores em Arduino (BLE) a um app Android nativo (Java + XML). Protótipos em Figma e Adobe XD, e protótipos elétricos em AutoCAD.
 </p>

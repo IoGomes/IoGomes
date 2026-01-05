@@ -18,22 +18,6 @@
 
 ## Project Showcase
 
-### OrtoTrack – Monitoramento Fisioterapêutico
-
-<p align="justify"> Sistema de acompanhamento em tempo real de múltiplos pacientes, integrando sensores em Arduino (BLE) a um app Android nativo (Java + XML). Protótipos em Figma e Adobe XD, e protótipos elétricos em AutoCAD.
-</p>
-
- <div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
-  <div style="display: flex; flex-direction: row; gap: 200px; width: 100%;">
-    <img src="https://github.com/IoGomes/IoGomes/blob/main/Pasted%20image%2020250915235743.png?raw=true" style="width: 200px;" />
-    <img src="https://github.com/IoGomes/IoGomes/blob/main/Pasted%20image%2020250916000105.png?raw=true" style="width: 200px;" />
-    <img src="https://github.com/IoGomes/IoGomes/blob/main/Pasted%20image%2020250916000349.png?raw=true" style="width: 200px;" />
-    <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250916_000606.png?raw=true" style="width: 200px;" />
-  </div>
-</div>
-
-##
-
 ### Nebula - Mensageiro
 
 <p align="justify"> Chat nativo Android (Java + XML) com comunicação por servidor próprio (em desenvolvimento). Mensagens em tempo real, grupos, presença e persistência local.

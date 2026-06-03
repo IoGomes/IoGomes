@@ -14,11 +14,6 @@
   <img src="https://cdn.simpleicons.org/mysql/white" width="60" height="60" />
 </p>
 </p>
-
-<div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
-  <div style="display: flex; flex-direction: row; gap: 200px; width: 100%;">
-    <img src="https://github.com/IoGomes/IoGomes/blob/main/Screenshot_20250916_000954.png?raw=true" style="width: 200px;" />
-  </div>
 </div>
 
 

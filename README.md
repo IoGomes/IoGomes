@@ -1,36 +1,32 @@
 # Ítalo Gomes - Desenvolvedor Android Nativo
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; width: 100%;">
+<p>
+  <b>Linguagens</b><br>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60" />
+</p>
 
-  <!-- Linguagens -->
-  <div style="display: flex; gap: 20px; padding-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60" height="60" />
-  </div>
+<p>
+  <b>Mobile</b><br>
+  <img src="https://cdn.simpleicons.org/android/white" width="60" />
+</p>
 
-  <!-- Mobile -->
-  <div style="display: flex; gap: 20px; padding-right: 20px;">
-    <img src="https://cdn.simpleicons.org/android/white" width="60" height="60" />
-  </div>
+<p>
+  <b>Backend</b><br>
+  <img src="https://cdn.simpleicons.org/springboot/white" width="60" />
+</p>
 
-  <!-- Ferramentas -->
-  <div style="display: flex; gap: 20px; padding-right: 20px;">
-    <img src="https://cdn.simpleicons.org/git/white" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/github/white" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/docker/white" width="60" height="60" />
-  </div>
+<p>
+  <b>Banco de Dados</b><br>
+  <img src="https://cdn.simpleicons.org/mysql/white" width="60" />
+  <img src="https://cdn.simpleicons.org/sqlite/white" width="60" />
+</p>
 
-  <!-- Backend -->
-  <div style="display: flex; gap: 20px; padding-right: 20px;">
-    <img src="https://cdn.simpleicons.org/springboot/white" width="60" height="60" />
-  </div>
-
-  <!-- Bancos de dados -->
-  <div style="display: flex; gap: 20px;">
-    <img src="https://cdn.simpleicons.org/sqlite/white" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/mysql/white" width="60" height="60" />
-  </div>
-
-</div>
+<p>
+  <b>Ferramentas</b><br>
+  <img src="https://cdn.simpleicons.org/git/white" width="60" />
+  <img src="https://cdn.simpleicons.org/github/white" width="60" />
+  <img src="https://cdn.simpleicons.org/docker/white" width="60" />
+</p>
 
 ## Project Showcase
 

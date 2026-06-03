@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="width: 60px; height: 60px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" style="width: 60px; height: 60px;" />
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/springboot.png" style="width: 60px; height: 60px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" style="width: 60px; height: 60px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" style="width: 60px; height: 60px;" />

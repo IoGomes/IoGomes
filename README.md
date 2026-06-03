@@ -1,32 +1,34 @@
 # Ítalo Gomes - Desenvolvedor Android Nativo
 
-<p>
-  <b>Linguagens</b><br>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60" />
-</p>
+<div style="display: flex; flex-direction: row; align-items: center;">
 
-<p>
-  <b>Mobile</b><br>
-  <img src="https://cdn.simpleicons.org/android/white" width="60" />
-</p>
+  <!-- Linguagem -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"
+       style="width: 60px; height: 60px; margin-right: 40px;" />
 
-<p>
-  <b>Backend</b><br>
-  <img src="https://cdn.simpleicons.org/springboot/white" width="60" />
-</p>
+  <!-- Mobile -->
+  <img src="https://cdn.simpleicons.org/android/white"
+       style="width: 60px; height: 60px; margin-right: 40px;" />
 
-<p>
-  <b>Banco de Dados</b><br>
-  <img src="https://cdn.simpleicons.org/mysql/white" width="60" />
-  <img src="https://cdn.simpleicons.org/sqlite/white" width="60" />
-</p>
+  <!-- Backend -->
+  <img src="https://cdn.simpleicons.org/springboot/white"
+       style="width: 60px; height: 60px; margin-right: 40px;" />
 
-<p>
-  <b>Ferramentas</b><br>
-  <img src="https://cdn.simpleicons.org/git/white" width="60" />
-  <img src="https://cdn.simpleicons.org/github/white" width="60" />
-  <img src="https://cdn.simpleicons.org/docker/white" width="60" />
-</p>
+  <!-- Ferramentas -->
+  <img src="https://cdn.simpleicons.org/git/white"
+       style="width: 60px; height: 60px; margin-right: 20px;" />
+  <img src="https://cdn.simpleicons.org/github/white"
+       style="width: 60px; height: 60px; margin-right: 20px;" />
+  <img src="https://cdn.simpleicons.org/docker/white"
+       style="width: 60px; height: 60px; margin-right: 40px;" />
+
+  <!-- Bancos -->
+  <img src="https://cdn.simpleicons.org/sqlite/white"
+       style="width: 60px; height: 60px; margin-right: 20px;" />
+  <img src="https://cdn.simpleicons.org/mysql/white"
+       style="width: 60px; height: 60px;" />
+
+</div>
 
 ## Project Showcase
 

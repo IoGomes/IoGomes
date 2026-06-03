@@ -9,10 +9,7 @@
   <img src="https://cdn.simpleicons.org/git/white" alt="GitHub" style="width: 60px; height: 60px;">
   <img src="https://cdn.simpleicons.org/sqlite/white" alt="GitHub" style="width: 60px; height: 60px;">
   <img src="https://cdn.simpleicons.org/mysql/white" alt="GitHub" style="width: 60px; height: 60px;">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/springboot.png" style="width: 60px; height: 60px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" style="width: 60px; height: 60px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" style="width: 60px; height: 60px;" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" style="width: 60px; height: 60px;" />
+  />
 </div>
 
 ## Project Showcase

@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="width: 60px; height: 60px;" />
   <img src="https://cdn.simpleicons.org/android/white" alt="GitHub" style="width: 60px; height: 60px;" />
   <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" style="width: 60px; height: 60px;">
+  <img src="https://cdn.simpleicons.org/springboot/white" alt="GitHub" style="width: 60px; height: 60px;">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/springboot.png" style="width: 60px; height: 60px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" style="width: 60px; height: 60px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" style="width: 60px; height: 60px;" />

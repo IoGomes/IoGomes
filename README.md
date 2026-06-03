@@ -1,34 +1,27 @@
 # Ítalo Gomes - Desenvolvedor Android Nativo
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60" height="60" />
 
-  <!-- Linguagem -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"
-       style="width: 60px; height: 60px; margin-right: 40px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Mobile -->
-  <img src="https://cdn.simpleicons.org/android/white"
-       style="width: 60px; height: 60px; margin-right: 40px;" />
+  <img src="https://cdn.simpleicons.org/android/white" width="60" height="60" />
 
-  <!-- Backend -->
-  <img src="https://cdn.simpleicons.org/springboot/white"
-       style="width: 60px; height: 60px; margin-right: 40px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Ferramentas -->
-  <img src="https://cdn.simpleicons.org/git/white"
-       style="width: 60px; height: 60px; margin-right: 20px;" />
-  <img src="https://cdn.simpleicons.org/github/white"
-       style="width: 60px; height: 60px; margin-right: 20px;" />
-  <img src="https://cdn.simpleicons.org/docker/white"
-       style="width: 60px; height: 60px; margin-right: 40px;" />
+  <img src="https://cdn.simpleicons.org/springboot/white" width="60" height="60" />
 
-  <!-- Bancos -->
-  <img src="https://cdn.simpleicons.org/sqlite/white"
-       style="width: 60px; height: 60px; margin-right: 20px;" />
-  <img src="https://cdn.simpleicons.org/mysql/white"
-       style="width: 60px; height: 60px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</div>
+  <img src="https://cdn.simpleicons.org/git/white" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/github/white" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/docker/white" width="60" height="60" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/sqlite/white" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/mysql/white" width="60" height="60" />
+</p>
 
 ## Project Showcase
 

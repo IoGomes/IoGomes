@@ -3,8 +3,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60" height="60" />
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://cdn.simpleicons.org/android/white" width="60" height="60" />
   <img src="https://cdn.simpleicons.org/springboot/white" width="60" height="60" />
 

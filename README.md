@@ -1,15 +1,35 @@
 # Ítalo Gomes - Desenvolvedor Android Nativo
 
-<div style="display: flex; flex-direction: row; gap: 20px; width: 100%;">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" style="width: 60px; height: 60px;" />
-  <img src="https://cdn.simpleicons.org/android/white" alt="GitHub" style="width: 60px; height: 60px;" />
-  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" style="width: 60px; height: 60px;">
-  <img src="https://cdn.simpleicons.org/springboot/white" alt="GitHub" style="width: 60px; height: 60px;">
-  <img src="https://cdn.simpleicons.org/docker/white" alt="GitHub" style="width: 60px; height: 60px;">
-  <img src="https://cdn.simpleicons.org/git/white" alt="GitHub" style="width: 60px; height: 60px;">
-  <img src="https://cdn.simpleicons.org/sqlite/white" alt="GitHub" style="width: 60px; height: 60px;">
-  <img src="https://cdn.simpleicons.org/mysql/white" alt="GitHub" style="width: 60px; height: 60px;">
-  />
+<div style="display: flex; flex-wrap: wrap; gap: 40px; width: 100%;">
+
+  <!-- Linguagens -->
+  <div style="display: flex; gap: 20px; padding-right: 20px;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60" height="60" />
+  </div>
+
+  <!-- Mobile -->
+  <div style="display: flex; gap: 20px; padding-right: 20px;">
+    <img src="https://cdn.simpleicons.org/android/white" width="60" height="60" />
+  </div>
+
+  <!-- Ferramentas -->
+  <div style="display: flex; gap: 20px; padding-right: 20px;">
+    <img src="https://cdn.simpleicons.org/git/white" width="60" height="60" />
+    <img src="https://cdn.simpleicons.org/github/white" width="60" height="60" />
+    <img src="https://cdn.simpleicons.org/docker/white" width="60" height="60" />
+  </div>
+
+  <!-- Backend -->
+  <div style="display: flex; gap: 20px; padding-right: 20px;">
+    <img src="https://cdn.simpleicons.org/springboot/white" width="60" height="60" />
+  </div>
+
+  <!-- Bancos de dados -->
+  <div style="display: flex; gap: 20px;">
+    <img src="https://cdn.simpleicons.org/sqlite/white" width="60" height="60" />
+    <img src="https://cdn.simpleicons.org/mysql/white" width="60" height="60" />
+  </div>
+
 </div>
 
 ## Project Showcase

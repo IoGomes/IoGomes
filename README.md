@@ -1,4 +1,4 @@
-# Ítalo Gomes - Android Nativo 
+# Ítalo Gomes - Dev. Android Nativo
 
 Principais Tecnologias
 

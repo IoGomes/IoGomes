@@ -3,11 +3,13 @@
 ## Technologies and Tools
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2AB37C?style=for-the-badge&logo=openjdk&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-24A890?style=for-the-badge&logo=quarkus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1E97B1?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1B90B7?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1784CB?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2DB06F?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-29AA80?style=for-the-badge&logo=sqlite&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-24A08F?style=for-the-badge&logo=quarkus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1F96AD?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1D92B6?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1887D0?style=for-the-badge&logo=docker&logoColor=white)
+![Google_Play](https://img.shields.io/badge/Google_Play-0F6CF2?style=for-the-badge&logo=google-play&logoColor=white)
 
 ## How to reach me
 

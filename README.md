@@ -1,6 +1,6 @@
 <h1 align="center">
   Dev. Android Nativo
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop.gif?raw=true"
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop%20(1).gif"
        width="60"
        alt="Android Mascot"
        style="vertical-align: middle;">

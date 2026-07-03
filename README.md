@@ -6,6 +6,9 @@
      width="60"
      alt="Android Mascot">
 
+I work mainly with Java and SQLite, and I also explore backend development using Quarkus to create more complete and scalable solutions.
+     
+
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=none&logoColor=white)
 ![Java](https://img.shields.io/badge/Xml-000000?style=for-the-badge&logo=none&logoColor=white) 

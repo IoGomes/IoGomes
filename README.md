@@ -13,7 +13,7 @@ You can find me on Google Play at https://codeby.io or visit my Portfolio at htt
 Feel free to explore my latest open-source projects pinned below. ↓
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=none&logoColor=white)
+![Java](https://img.shields.io/badge/Java-34A853?style=for-the-badge&logo=none&logoColor=white)
 ![Java](https://img.shields.io/badge/Xml-011908?style=for-the-badge&logo=none&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-011908?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)

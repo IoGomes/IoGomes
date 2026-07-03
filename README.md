@@ -21,8 +21,6 @@ I'm a passionate **Native Android Developer** focused on building clean, efficie
 ![GitHub](https://img.shields.io/badge/GitHub-1D92B6?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1887D0?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 ## 📫 How to Reach Me
 
 <p align="left">

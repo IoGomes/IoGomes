@@ -21,6 +21,4 @@ You can find me on Google play: www.CodeByI/O.com.br or www.iogomes.dev
 ![Docker](https://img.shields.io/badge/Docker-1887D0?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Profile views](https://komarev.com/ghpvc/?username=IoGomes&color=brightgreen)
-
-
 </div>

@@ -9,8 +9,6 @@
   Native Android Developer • Java • SQLite • Quarkus
 </p>
 
-## 👋 About Me
-
 I'm a passionate **Native Android Developer** focused on building clean, efficient, and user-friendly mobile applications.
 
 I enjoy designing scalable architectures, creating intuitive user experiences, and exploring backend technologies such as **Quarkus** to build complete solutions. I'm always looking to improve my skills and deliver high-quality software.

@@ -8,7 +8,7 @@
 
 I develop Android applications using native approaches, focusing on performance and efficiency. In addition, I enjoy electronics as a hobby, where I like to work with low-level and hardware-focused solutions.
 
-You can find me on Google Play at www.codeby.io or check out my portfolio at www.iogomes.dev.
+You can find me on Google Play at https:www.codeby.io or check out my portfolio at https:www.iogomes.dev
 
 Feel free to explore my latest open-source projects pinned below. ↓
 

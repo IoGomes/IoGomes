@@ -9,7 +9,6 @@
 ![Git](https://img.shields.io/badge/Git-1F96AD?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1D92B6?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1887D0?style=for-the-badge&logo=docker&logoColor=white)
-![Google_Play](https://img.shields.io/badge/Google_Play-0F6CF2?style=for-the-badge&logo=google-play&logoColor=white)
 
 ## How to reach me
 

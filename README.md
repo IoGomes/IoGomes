@@ -1,7 +1,10 @@
-# Desenvolvedor Android
+<h1 align="center">
+  Desenvolvedor Android
   <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop%20(5).gif?raw=true"
        width="60"
-       alt="Android Mascot">
+       alt="Android Mascot"
+       style="vertical-align: middle;">
+</h1>
 
 I'm a passionate **Native Android Developer** focused on building clean, efficient, and user-friendly mobile applications.
 

@@ -19,6 +19,4 @@ You can find me on Google play: www.CodeByI/O.com.br or www.iogomes.dev
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1887D0?style=for-the-badge&logo=docker&logoColor=white)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?IoGomes=SEU_USERNAME&show_icons=true)
 </div>

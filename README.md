@@ -17,5 +17,14 @@
 
 ## How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+## How to Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/white" width="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://cdn.simpleicons.org/gmail/white" width="32" alt="Email"/>
+  </a>
+</p>

@@ -8,7 +8,7 @@
 
 I develop Android applications using native approaches, focusing on performance and efficiency. In addition, I enjoy electronics as a hobby, where I like to work with low-level and hardware-focused solutions.
 
-You can find me on Google play: www.CodeByI/O.com.br or www.iogomes.dev
+You can find me on Google play: www.CodeByI/O.com.br or check my portfolio on www.iogomes.dev
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=none&logoColor=white)

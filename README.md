@@ -13,7 +13,7 @@ I'm a passionate **Native Android Developer** focused on building clean, efficie
 
 ---
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2DB06F?style=for-the-badge&logo=openjdk&logoColor=white)

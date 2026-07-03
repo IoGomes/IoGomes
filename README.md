@@ -6,7 +6,7 @@
      width="60"
      alt="Android Mascot">
 
-I work mainly with Java and SQLite, and I also explore backend development using Quarkus to create more complete and scalable solutions. 
+I develop Android applications using native approaches, focusing on performance and efficiency. I prefer working with native or lightweight frameworks because they provide better control over system resources and result in more efficient and responsive applications. In addition, I enjoy electronics as a hobby, where I like to work with low-level and hardware-focused solutions, as they offer greater efficiency, precision, and a deeper understanding of how systems behave closer to the hardware.
 
 You can find me on Google play: www.CodeByI/O.com.br or www.iogomes.dev
 

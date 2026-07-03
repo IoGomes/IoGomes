@@ -16,7 +16,6 @@ Feel free to explore my latest open-source projects pinned below. ↓
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=none&logoColor=white)
 ![Java](https://img.shields.io/badge/Xml-000000?style=for-the-badge&logo=none&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=gihubt&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-1F6FEB?style=for-the-badge&logo=quarkus&logoColor=white)

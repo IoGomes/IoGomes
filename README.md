@@ -1,6 +1,6 @@
 <div align="center">
 
-# Android Developer
+# Android Native Developer
 
 <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop%20(5).gif?raw=true"
      width="60"

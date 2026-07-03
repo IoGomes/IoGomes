@@ -1,8 +1,4 @@
-# Dev. Android Nativo
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BvMGJqcTFjbjg2MDA3aHhyM2Uxdzg2bG9meXAzdzFkdnA0dWI4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="180" alt="Android Mascot">
-</p>
+# Dev. Android Nativo  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BvMGJqcTFjbjg2MDA3aHhyM2Uxdzg2bG9meXAzdzFkdnA0dWI4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="180" alt="Android Mascot">
 
 ## Technologies and Tools
 

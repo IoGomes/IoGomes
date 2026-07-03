@@ -1,5 +1,5 @@
 <h1 align="center">
-  Desenvolvedor Android Nativo
+  Desenvolvedor Android
   <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop%20(5).gif"
        width="60"
        alt="Android Mascot"

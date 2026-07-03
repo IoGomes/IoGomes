@@ -1,9 +1,5 @@
 <h1 align="center">
   Android Developer
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop%20(5).gif?raw=true"
-       width="60"
-       alt="Android Mascot"
-       style="vertical-align: middle;">
 </h1>
 
 

@@ -1,18 +1,12 @@
-<h1 align="center">
-  Android Developer
-</h1>
+<div align="center">
 
+# Android Developer
 
-<h1 align="center">
-  <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop%20(5).gif?raw=true"
-       width="60"
-       alt="Android Mascot"
-       style="vertical-align: middle;">
-</h1>
+<img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop%20(5).gif?raw=true"
+     width="60"
+     alt="Android Mascot">
 
-<h3 align="center">
-I'm a passionate **Native Android Developer** focused on building clean, efficient, and user-friendly mobile applications.
-</h3>
+</div>
 
 ## Technologies & Tools
 

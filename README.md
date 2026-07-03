@@ -1,5 +1,9 @@
 # Dev. Android Nativo
 
+<p align="center">
+  <img src="./assets/android.gif" width="180" alt="Android Mascot">
+</p>
+
 ## Technologies and Tools
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)

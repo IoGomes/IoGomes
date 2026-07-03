@@ -6,9 +6,9 @@
        style="vertical-align: middle;">
 </h1>
 
-<h1 align="center">
+<h3 align="center">
 I'm a passionate **Native Android Developer** focused on building clean, efficient, and user-friendly mobile applications.
-</h1>
+</h3>
 
 ## Technologies & Tools
 

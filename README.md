@@ -1,7 +1,6 @@
 # Ítalo Gomes - Dev. Android Nativo
 
 ![Android](https://img.shields.io/badge/Android-1565C0?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-1565C0?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-1565C0?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-1565C0?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-1565C0?style=for-the-badge&logo=gradle&logoColor=white)

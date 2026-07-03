@@ -1,4 +1,4 @@
-# Ítalo Gomes - Dev. Android Nativo
+# Dev. Android Nativo
 
 ## Technologies and Tools
 

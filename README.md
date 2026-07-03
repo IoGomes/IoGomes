@@ -11,8 +11,6 @@
 
 I'm a passionate **Native Android Developer** focused on building clean, efficient, and user-friendly mobile applications.
 
----
-
 ## Technologies & Tools
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)

@@ -18,8 +18,6 @@
 
 ## How to reach me
 
-## How to Reach Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/white" width="32" alt="LinkedIn"/>

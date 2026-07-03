@@ -7,7 +7,7 @@
   <img src="https://cdn.simpleicons.org/android" width="48" height="48" alt="Android" />
   <img src="https://cdn.simpleicons.org/quarkus" width="48" height="48" alt="Spring Boot" />
   <img src="https://cdn.simpleicons.org/git" width="48" height="48" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub" />
+  ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)
   <img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker" />
   <img src="https://cdn.simpleicons.org/sqlite" width="48" height="48" alt="SQLite" />
   

@@ -8,6 +8,10 @@
 
 </div>
 
+I work mainly with **Java** and **SQLite**, and I also explore backend development using **Quarkus** to create more complete and scalable solutions.
+
+I'm passionate about software architecture, clean code and continuous learning. My goal is to build apps that provide great user experiences and solid technical quality.
+
 ## Technologies & Tools
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)

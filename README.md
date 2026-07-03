@@ -1,8 +1,8 @@
 <h1 align="center">
   Dev. Android Nativo
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9jbDlibDBqa2tobXloc2JvZjdpZDlyOGdpcDc2ajUyemM0bjIzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4bzv6DYbYzy8jDnoW/giphy.gif"
-       width="55"
-       alt="Android"/>
+<p align="center">
+  <img src="./assets/android.gif" width="180" alt="Android Mascot">
+</p>
 </h1>
 
 ## Technologies and Tools

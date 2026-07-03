@@ -1,7 +1,7 @@
 <h1 align="center">
   Dev. Android Nativo
 <p align="center">
-  <img src="./assets/android.gif" width="180" alt="Android Mascot">
+  <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop.gif" width="180" alt="Android Mascot">
 </p>
 </h1>
 

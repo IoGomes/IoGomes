@@ -1,4 +1,9 @@
-# Dev. Android Nativo  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BvMGJqcTFjbjg2MDA3aHhyM2Uxdzg2bG9meXAzdzFkdnA0dWI4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="180" alt="Android Mascot">
+<h1 align="center">
+  Dev. Android Nativo
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BvMGJqcTFjbjg2MDA3aHhyM2Uxdzg2bG9meXAzdzFkdnA0dWI4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif"
+       width="55"
+       alt="Android"/>
+</h1>
 
 ## Technologies and Tools
 
@@ -11,4 +16,3 @@
 ![Docker](https://img.shields.io/badge/Docker-1887D0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## How to reach me
-

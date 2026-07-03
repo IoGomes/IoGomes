@@ -1,6 +1,6 @@
 <h1 align="center">
   Dev. Android Nativo
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BvMGJqcTFjbjg2MDA3aHhyM2Uxdzg2bG9meXAzdzFkdnA0dWI4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif"
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9jbDlibDBqa2tobXloc2JvZjdpZDlyOGdpcDc2ajUyemM0bjIzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4bzv6DYbYzy8jDnoW/giphy.gif"
        width="55"
        alt="Android"/>
 </h1>

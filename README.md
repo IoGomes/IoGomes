@@ -5,10 +5,6 @@
        alt="Android Mascot">
 </h1>
 
-<p align="middle">
-  Native Android Developer • Java • SQLite • Quarkus
-</p>
-
 I'm a passionate **Native Android Developer** focused on building clean, efficient, and user-friendly mobile applications.
 
 ## Technologies & Tools

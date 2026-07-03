@@ -5,7 +5,7 @@
        alt="Android Mascot">
 </h1>
 
-<p align="center">
+<p align="left">
   Native Android Developer • Java • SQLite • Quarkus
 </p>
 

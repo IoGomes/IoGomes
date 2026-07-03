@@ -10,7 +10,7 @@ I develop Android applications using native approaches, focusing on performance 
 
 You can find me on Google play: www.CodeByI/O.com.br or check my portfolio on www.iogomes.dev
 
-or check my latest open source projects pinned below
+check my latest open source projects pinned below
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=none&logoColor=white)

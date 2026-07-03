@@ -10,8 +10,6 @@
 
 I work mainly with **Java** and **SQLite**, and I also explore backend development using **Quarkus** to create more complete and scalable solutions.
 
-## Technologies & Tools
-
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2DB06F?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)

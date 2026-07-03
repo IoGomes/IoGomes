@@ -7,8 +7,8 @@
      alt="Android Mascot">
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=none&logoColor=white) /
-![Java](https://img.shields.io/badge/Xml-000000?style=for-the-badge&logo=none&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=none&logoColor=white)
+![Java](https://img.shields.io/badge/Xml-000000?style=for-the-badge&logo=none&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)

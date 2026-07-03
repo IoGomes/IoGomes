@@ -3,7 +3,7 @@
   <img src="https://github.com/IoGomes/IoGomes/blob/main/ezgif.com-crop%20(5).gif"
        width="60"
        alt="Android Mascot"
-       style="vertical-align: start;">
+       style="vertical-align: left;">
 </h1>
 
 ## Technologies and Tools

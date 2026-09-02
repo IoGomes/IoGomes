@@ -8,8 +8,6 @@
 
 I develop Android applications using native approaches, focusing on performance and efficiency. In addition, I enjoy electronics as a hobby, where I like to work with low-level and hardware-focused solutions.
 
-You can find me on Google Play at https://codeby.io or visit my Portfolio at https://iogomes.dev
-
 Feel free to explore my latest open-source projects pinned below. ↓
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)

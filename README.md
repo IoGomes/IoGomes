@@ -8,7 +8,7 @@
 
 I develop Android applications using native approaches, focusing on performance and efficiency. In addition, I enjoy electronics as a hobby, where I like to work with low-level and hardware-focused solutions.
 
-You can find my most recent publications on [Website](https://iogomes.dev), and you can learn more about my professional experience on my [LinkedIn](https://linkedin.com) profile.
+You can find my most recent projects on https://iogomes.dev, and you can learn more about my professional experience on my [LinkedIn](https://linkedin.com) profile.
 
 Feel free to explore my latest open-source projects pinned below. ↓
 

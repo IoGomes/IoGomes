@@ -6,12 +6,12 @@
      width="60"
      alt="Android Mascot">
 
-Desenvolvo aplicações Android nativas com foco em desempenho e eficiência. Como hobby, desenvolvo soluções em eletrônica e hardware de baixo nível.
+I build native Android applications focused on performance and efficiency, alongside hardware and low-level electronics projects as a hobby.
 
-Projetos recentes: [Portfolio](https://iogomes.dev)  
-Histórico profissional: [LinkedIn](https://linkedin.com)
+Projects: [Portfolio](https://iogomes.dev)  
+Experience: [LinkedIn](https://linkedin.com)
 
-Conheça os projetos open-source destacados abaixo:
+Check out my pinned open-source projects below:
 
 <br/>
 
